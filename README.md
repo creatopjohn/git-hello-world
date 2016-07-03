@@ -1,4 +1,4 @@
-# git-hello-world new user1
+# git-hello-world new user1 + user2
 
 John
 
